@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Calvin
-- 👀 I’m interested in ... Software Engineering, Mountain Biking, Exploring, Exercise, Animals
+- 👀 I’m interested in ... Software Engineering, Mountain Biking, Exploring, Cooking, Exercise, Animals
 - 🌱 I’m currently learning ... HTML5, CSS3, JS
 - 💞️ I’m looking to collaborate on ... You calling me a traitor? :P
 - 📫 How to reach me ... message me here!
